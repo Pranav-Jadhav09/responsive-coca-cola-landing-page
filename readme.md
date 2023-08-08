@@ -20,7 +20,8 @@ Coca Cola is a fully responsive landing page website, responsive for all devices
 
 ### Demo Screenshots
 
-![Landing Page Demo Screen](./assets/images/demofile.png "Demo Screen")
+![Landing Page Demo Screen](./assets/images/demodesktop.png "Demo Screen")
+![Landing Page Demo Screen](./assets/images/demophone.png "Demo Screen")
 
 ### Prerequisites
 
