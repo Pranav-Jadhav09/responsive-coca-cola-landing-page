@@ -10,7 +10,7 @@
  <img src="./assets/images/logo.png">
 
 <h2 align="center">Coca Cola - Landing Page</h2>
-Coca Cola is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and Vanilla JavaScript. Also used Swiper.js library to make stunnig image slideer.
+Coca Cola is a fully responsive landing page website, responsive for all devices, built using HTML5, CSS3, and Vanilla JavaScript. Also used Swiper.js library to make stunnig image slider.
 
 <a href="https://pranav-jadhav09.github.io/responsive-coca-cola-landing-page/"><strong>➥ Live Demo</strong></a>
 
